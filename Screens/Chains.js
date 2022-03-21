@@ -1,10 +1,10 @@
-import React from 'react';
-import {StyleSheet, Text, View} from 'react-native';
+import React from "react";
+import { StyleSheet, Text, View } from "react-native";
 
 function Chains() {
   return (
     <View style={styles.container}>
-      <Text style={styles.textstyle}>Hello Your on Chains Screen</Text>
+      <Text style={styles.textstyle}> Your on Chains Screen</Text>
     </View>
   );
 }
